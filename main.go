@@ -9,4 +9,6 @@ func main() {
 	fmt.Println("test 1")
 	fmt.Println("test 2")
 	fmt.Println("C")
+	fmt.Println("A")
+	fmt.Println("B")
 }
